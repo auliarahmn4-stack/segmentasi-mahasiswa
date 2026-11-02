@@ -1,0 +1,1 @@
+<section class="panel"><div class="empty-state"><div class="empty-symbol">404</div><h2>Halaman tidak ditemukan</h2><p>Halaman yang diminta tidak tersedia pada aplikasi.</p><a class="btn btn-primary" href="<?= url('dashboard') ?>">Kembali ke dashboard</a></div></section>
